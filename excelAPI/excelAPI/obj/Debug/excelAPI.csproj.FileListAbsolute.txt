@@ -1,0 +1,10 @@
+F:\free lancing\c#\excelAPI\excelAPI\bin\Debug\excelAPI.exe.config
+F:\free lancing\c#\excelAPI\excelAPI\bin\Debug\excelAPI.exe
+F:\free lancing\c#\excelAPI\excelAPI\bin\Debug\excelAPI.pdb
+F:\free lancing\c#\excelAPI\excelAPI\obj\Debug\excelAPI.csproj.AssemblyReference.cache
+F:\free lancing\c#\excelAPI\excelAPI\obj\Debug\excelAPI.csproj.CoreCompileInputs.cache
+F:\free lancing\c#\excelAPI\excelAPI\obj\Debug\excelAPI.exe
+F:\free lancing\c#\excelAPI\excelAPI\obj\Debug\excelAPI.pdb
+F:\free lancing\c#\excelAPI\excelAPI\bin\Debug\DocumentFormat.OpenXml.dll
+F:\free lancing\c#\excelAPI\excelAPI\bin\Debug\DocumentFormat.OpenXml.xml
+F:\free lancing\c#\excelAPI\excelAPI\obj\Debug\excelAPI.csproj.CopyComplete
